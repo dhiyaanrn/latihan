@@ -1,0 +1,14 @@
+{
+  "name": "latihan",
+  "version": "1.0.0",
+  "description": "repository buat latihan\r ini buat latihan automation sanbercode QA bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
+}
